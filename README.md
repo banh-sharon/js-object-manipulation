@@ -1,3 +1,4 @@
+```
 const getSculptureListLengths = (list) => {
   return list.map((sculpture) => {
     return {
